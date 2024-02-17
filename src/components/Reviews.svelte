@@ -73,7 +73,7 @@ import SectionWrapper from "./SectionWrapper.svelte";
 
 </script>
 
-<SectionWrapper>
+<SectionWrapper id="reviews">
     <div class="flex-flex-col gap-10 sm:gap-14 md:gap-24 py-20 flex-1 items-center justify-center">
         <div class="flex flex-col gap-2">
             <p class="opacity-60 text-based sm:text-lg md:text-xl text-center">Don't just take our word for it</p>
